@@ -1,0 +1,14 @@
+[ 17%] Built target ggml-base
+[ 46%] Built target ggml-cpu
+[ 51%] Built target ggml
+[ 55%] Built target whisper
+[ 65%] Built target common
+[ 69%] Built target test-vad
+[ 73%] Built target test-vad-full
+[ 76%] Built target whisper-cli
+[ 80%] Built target whisper-bench
+[ 84%] Built target whisper-server
+[ 88%] Built target whisper-quantize
+[ 92%] Built target whisper-vad-speech-segments
+[ 96%] Built target main
+[100%] Built target bench
